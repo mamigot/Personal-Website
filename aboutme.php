@@ -24,12 +24,13 @@
         <br>
         <div class="row">
             <div class="col-lg-3">
-                <img class="thumbnail" src="data/images/mikelAstorga.png"/>
+                <img class="thumbnail" src="data/images/mikelAstorgaAmarillo.png"/>
             </div>
             <div class="col-lg-9">
                 <h1>About Me</h1>
                 <p class="lead">My name is Miguel Amigot Gonzalez and I study Computer Science and Electrical Engineering at New York University. I am a proud Catholic, Spaniard and Madridista and I moved to the United States when I was 12 years old. I am fascinated by technology and entrepreneurship and my goal is to develop a product for the public good. </p>
-                <p class="lead">Currently, I am launching <a href="projects.php#oakwide">OakWide</a> with my father and an excellent group of software engineers. It is being built as a cloud-platform, and it promises to become the most powerful, easy-to-use software marketing solution. </p>
+                <p class="lead">Currently, I am working on product development and sales at my family's company, <a href="http://iblstudios.com/">IBL Studios</a>. Our mission is to provide academic institutions and businesses with the latest web application technology and content, including open source and custom-built platforms, marketing-oriented web development and the production of MOOCs as well as blended courses.</p>
+                <!--<p class="lead">Currently, I am launching <a href="projects.php#oakwide">OakWide</a> with my father and an excellent group of software engineers. It is being built as a cloud-platform, and it promises to become the most powerful, easy-to-use software marketing solution. </p>-->
                 <p>
                   <a class="btn btn-lg btn-primary" href="http://www.miguelamigotgonzalez.com/contact.php">Contact me &raquo;</a>
                 </p>

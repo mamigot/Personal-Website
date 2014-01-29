@@ -24,9 +24,10 @@ return <<<HTML
                     <strong>Co-Founder at OakWide</strong><br><i>June 2013 - Present</i><br><br>
                     <p>Launching a marketing automation start-up and working as a developer, strategist, inbound marketer and recruiter.</p>
                     <hr>
-                    <strong>Translator and Inbound Marketing Associate at <a href="http://www.iblstudios.com/">IBL Studios</a></strong><br><i>June 2010 - Present</i><br><br>
-                    <p>Examined developed software and inbound marketing strategies from a user's standpoint.</p>
-                    <p>Translated business proposals and video scripts from Spanish to English.</p>
+                    <strong>Head of Product Development and Sales at <a href="http://www.iblstudios.com/">IBL Studios</a></strong><br><i>June 2010 - Present</i><br><br>
+                    <p>Assembled a series of software and content-oriented products and services designed to provide academic institutions and businesses with the most innovative educational technology.</p>
+                    <p>Analyzed and contributed to the development of a business model based on the implementation of open source software, custom-built platforms, strategic web development and video production (including MOOCs and blended courses).</p>
+                    <p>Marketed IBL Studios' products through written content on our website and one-on-one sales with clients.</p>
                     <hr>
                     <strong>Marketing, Research and Sales Intern at <a href="http://www.mobiconsumers.com/">Mobile Consumer LLC</a></strong><br><i>June 2011 - August 2011</i><br><br>
                     <p>Researched and analyzed trends driving the mobile consumer industry.</p>

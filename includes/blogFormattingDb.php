@@ -24,9 +24,11 @@ return <<<HTML
     <br>
     <div class="container">
         <div class="container">
-            <div class="lead">
-              <!-- place latest blog post TEXT here -->
-              {$post}
+            <div class="container">
+                <div class="lead">
+                  <!-- place latest blog post TEXT here -->
+                  {$post}
+                </div>
             </div>
         </div>
     </div>

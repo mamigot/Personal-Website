@@ -29,8 +29,8 @@ return <<<HTML
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php">See all</a></li>
                 <li class="divider"></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#oakwide">OakWide</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#IBLStudios">IBL Studios</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#smartCMS">Smart CMS</a></li>
-                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#machineLearningCoursera">Stanford's "Machine Learning"</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#startupCoursera">Stanford's "Startup Engineering"</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#disarmingRobot">Disarming robot</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#responsiveWebDesign">Responsive web design</a></li>

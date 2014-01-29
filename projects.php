@@ -35,8 +35,19 @@
               <p class="lead">As Co-Founder, I'm working as a developer, strategist, inbound marketer and recruiter.  </p>
           </div>
         </div>
-        <br><br>
         
+        <br><br>
+        <div class="row">
+          <div class="col-lg-12">
+            <a name="IBLStudios"></a><h2>IBL Studios</h2>
+            <p class="lead">I've also teamed up with my father and a group of developers, videographers and marketing specialists across the United States and Europe through <a href="http://iblstudios.com/">IBL Studios</a> to bring the latest tech innovations to academic institutions and businesses.</p>
+            <p class="lead">Our mission is to provide organizations with the latest educational technology and content, including open source or custom-built platforms, marketing-oriented web development and the production of MOOCs and blended courses. One of our favorite products is the open source, amazing <a href="http://iblstudios.com/products_services/open-source-platforms/open-edx/">edX platform</a> for online courses, which we fully integrate and maintain for educational institutions and businesses that rely on workforce training programs.</p>
+            <p class="lead">I am responsible for product development and sales in the United States. Our model's innovative appeal evidently relies on a continuous improvement of the services we offer. I am mainly focused on coming up with and assembling them in order to convey their potential to our prospects and clients -through <a href="http://iblstudios.com/">our website</a> as well as one-on-one sales.</p>
+            <p class="lead">I have not only furthered my understanding of UX and usability, but also about the open source business model among others in the tech entrepreneurship arena. Additionally, by working closely with my father (the CEO) and other departments' heads, I have developed a great familiarity with all of the stages and nodes of the company.</p>
+          </div>
+        </div>
+        
+        <br><br>
         <div class="row">
           <div class="col-lg-12">
             <a name="smartCMS"></a><h2>Smart Content Manager System (Facebook NY Hackathon)</h2>
@@ -51,9 +62,8 @@
             </p>
           </div>
         </div>
-        
+        <!--
         <br><br>
-        
         <div class="row">
           <div class="col-lg-12">
             <a name="machineLearningCoursera"></a><h2>Stanford's "Machine Learning" via Coursera</h2>
@@ -65,96 +75,106 @@
             </p>
           </div>
         </div>
-        
+        -->
         <br><br>
         <div class="row">
             <div class="col-lg-12">
               <a name="startupCoursera"></a><h2>Stanford's "Start-up Engineering" via Coursera</h2>
-              <p class="lead">Over the summer, I took Stanford University's "Start-up Engineering" via <a href="https://www.coursera.org/course/startup">Coursera</a> -taught by a <a href="https://www.coursera.org/instructor/balajis"> genomics entrepreneur</a> and a <a href="https://www.coursera.org/instructor/vijaypande">professor of chemistry, structural biology and computer science</a>. Definitely, one of the best courses I've ever taken. Check out the course materials via Dropbox: </p>
-            
-              <!-- Links to lectures -->
-              <div class="panel-group" id="bossResume"> <!-- Beginning of accordion -->
-                <div class="panel"> <!-- Lectures -->
-                  <div class="panel-heading">
-                    <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseLectures">
-                        Lectures
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapseLectures" class="panel-collapse collapse">
-                    <div class="panel-body">
-                       <strong>Software Engineering</strong><br><br>
-                        <ol>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/sj65hYRUkE/1Introduction.pdf">Introduction</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/nqMRiENhk4/2InteractiveStart.pdf">Interactive Start</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/8fxQb3LNb-/3LinuxAndServerSideJavascript.pdf">Linux and Server-Side Javascript (SSJS)</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/vfey3oEtlt/4aLinuxCommandLine.pdf">The Linux Command Line</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/R1s1BV2Rk_/4bLinuxDevelopmentEnvironment.pdf">Linux Development Environment</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/il5bpri5wN/6IntroHTML-CS-JS.pdf">An Introduction to HTML/CSS/JS</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/evAYngpfkH/7DeploymentDNSandCustomDomains.pdf">Deployment, DNS and Custom Domains</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/UUjyIKTgLu/10IntermediateJavascript.pdf">Intermediate Javascript</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SI50pWksca/12NodejsAsynchronyFlowControlDebugging.pdf">Node.js: Asynchrony, Flow Control, and Debugging</a></li>
+              
+              <div class="col-lg-5">
 
-                        </ol>
-                        <hr>
-                        <strong>Start-ups and Business</strong><br><br>
+              <p class="lead">Over the summer, I took Stanford University's "Start-up Engineering" via <a href="https://www.coursera.org/course/startup">Coursera</a> -taught by a <a href="https://www.coursera.org/instructor/balajis"> genomics entrepreneur</a> and a <a href="https://www.coursera.org/instructor/vijaypande">professor of chemistry, structural biology and computer science</a>. Definitely, one of the best courses I've ever taken. Check out the course materials via Dropbox: </p>
+              
+                
+                <!-- Links to lectures -->
+                <div class="panel-group" id="bossResume"> <!-- Beginning of accordion -->
+                  <div class="panel"> <!-- Lectures -->
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseLectures">
+                          Lectures
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseLectures" class="panel-collapse collapse">
+                      <div class="panel-body">
+                         <strong>Software Engineering</strong><br><br>
+                          <ol>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/sj65hYRUkE/1Introduction.pdf">Introduction</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/nqMRiENhk4/2InteractiveStart.pdf">Interactive Start</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/8fxQb3LNb-/3LinuxAndServerSideJavascript.pdf">Linux and Server-Side Javascript (SSJS)</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/vfey3oEtlt/4aLinuxCommandLine.pdf">The Linux Command Line</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/R1s1BV2Rk_/4bLinuxDevelopmentEnvironment.pdf">Linux Development Environment</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/il5bpri5wN/6IntroHTML-CS-JS.pdf">An Introduction to HTML/CSS/JS</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/evAYngpfkH/7DeploymentDNSandCustomDomains.pdf">Deployment, DNS and Custom Domains</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/UUjyIKTgLu/10IntermediateJavascript.pdf">Intermediate Javascript</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SI50pWksca/12NodejsAsynchronyFlowControlDebugging.pdf">Node.js: Asynchrony, Flow Control, and Debugging</a></li>
+  
+                          </ol>
+                          <hr>
+                          <strong>Start-ups and Business</strong><br><br>
+                          <ol>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/xuI8vwNhhL/5MarketResearchWireframingAndDesign.pdf">Market Research, Wireframing and Design</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/CFzR19uisp/8Mobile.pdf">Mobile</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Nt537BMqSW/9SocialLocalMobileViralityGrowth.pdf">Social/Local/Mobile, Virality and Growth</a></li>
+                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/DqW-Q2grEm/11RegulationDisruptionandTechnologiesof2013.pdf">Regulation, Disruption and the Technologies of 2013</a></li>
+                          </ol>
+                      </div>
+                    </div>
+                  </div> <!-- end of Lectures -->
+                  <div class="panel"> <!-- Assignments -->
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseAssignments">
+                          Programming Assignments
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseAssignments" class="panel-collapse collapse">
+                      <div class="panel-body">
                         <ol>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/xuI8vwNhhL/5MarketResearchWireframingAndDesign.pdf">Market Research, Wireframing and Design</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/CFzR19uisp/8Mobile.pdf">Mobile</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Nt537BMqSW/9SocialLocalMobileViralityGrowth.pdf">Social/Local/Mobile, Virality and Growth</a></li>
-                            <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/DqW-Q2grEm/11RegulationDisruptionandTechnologiesof2013.pdf">Regulation, Disruption and the Technologies of 2013</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SQXXAwv7Be/hw1.pdf">Basic Server-Side Javascript with Node.js</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/1YPDpPTeld/hw3.pdf">Your First Crowdfunding Site</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/HZx2DGWOIc/hw4.pdf">Styling and Populating your Crowdfunding Site</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/9dDNJdozEo/hw6.pdf">Deployment, Social, Analytics, Payments (24.44 MB)</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QSIyOig0xb/hw7Programming%3AQuiz.pdf">Interactive Intro to SSJS, ORMs, DBs</a></li>
                         </ol>
+                      </div>
                     </div>
-                  </div>
-                </div> <!-- end of Lectures -->
-                <div class="panel"> <!-- Assignments -->
-                  <div class="panel-heading">
-                    <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseAssignments">
-                        Programming Assignments
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapseAssignments" class="panel-collapse collapse">
-                    <div class="panel-body">
-                      <ol>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SQXXAwv7Be/hw1.pdf">Basic Server-Side Javascript with Node.js</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/1YPDpPTeld/hw3.pdf">Your First Crowdfunding Site</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/HZx2DGWOIc/hw4.pdf">Styling and Populating your Crowdfunding Site</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/9dDNJdozEo/hw6.pdf">Deployment, Social, Analytics, Payments (24.44 MB)</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QSIyOig0xb/hw7Programming%3AQuiz.pdf">Interactive Intro to SSJS, ORMs, DBs</a></li>
-                      </ol>
+                  </div> <!-- end of Assignments -->
+                  <div class="panel"> <!-- Quizzes -->
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseQuizzes">
+                          Quizzes
+                        </a>
+                      </h4>
                     </div>
-                  </div>
-                </div> <!-- end of Assignments -->
-                <div class="panel"> <!-- Quizzes -->
-                  <div class="panel-heading">
-                    <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#bossResume" href="#collapseQuizzes">
-                        Quizzes
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapseQuizzes" class="panel-collapse collapse">
-                    <div class="panel-body">
-                      <ol>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/M1WW75hYzr/quiz4MarketResearch.pdf">Market Research</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Jne1nq9q1f/quiz5aHTML.pdf">HTML</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/TcERBW11EU/quiz5bCSS.pdf">CSS</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/qSoKuieeR2/quiz5cReview.pdf">Review</a></li>
-                        <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QsB5LlBHNy/quiz5dGit.pdf">Git</a></li>
-                      </ol>
+                    <div id="collapseQuizzes" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <ol>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/M1WW75hYzr/quiz4MarketResearch.pdf">Market Research</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Jne1nq9q1f/quiz5aHTML.pdf">HTML</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/TcERBW11EU/quiz5bCSS.pdf">CSS</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/qSoKuieeR2/quiz5cReview.pdf">Review</a></li>
+                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QsB5LlBHNy/quiz5dGit.pdf">Git</a></li>
+                        </ol>
+                      </div>
                     </div>
-                  </div>
-                </div> <!-- end of Quizzes -->
-            </div> <!-- End of accordion -->
-            
+                  </div> <!-- end of Quizzes -->
+              </div> <!-- End of accordion -->
+              
+            </div>
+
+            <div class="col-lg-7">
+                <br>
+                <img src="data/images/startupEngineeringCertificate.png" alt="Coursera Startup Engineering Certificate" class="img-thumbnail">
+            </div>
             
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">  
+            <div class="col-lg-12">
               <h3>Software Engineering</h3>
               <p class="lead">The purpose of the course was to "bridge the gap between academic computer science and production software engineering" by teaching Unix Command Line development, Git (version control through Github and Heroku), Node.js (including libraries like <a href=" https://github.com/caolan/async">Async</a>, <a href=" http://expressjs.com/">Express</a> and <a href=" https://npmjs.org/package/node-fs">FS</a>), front-end technologies like HTML5 and Javascript... Read the full syllabus <a href=" https://www.coursera.org/course/startup">here</a>. </p>
               <p class="lead">We were submerged in a full <strong>modern web development environment</strong> as we deployed our code across development, staging and production processes. </p>
