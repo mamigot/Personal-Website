@@ -1,0 +1,91 @@
+body {
+    /* Move down content because we have a fixed navbar that is 50px tall */
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.navbar {
+    /* Color of navigation bar, blue is #428bca */
+    background-color: #FFFFFF;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #428bca;
+  text-decoration: none;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color: #428bca;
+  text-decoration: none;
+  background-color: #428bca;
+  outline: 0;
+}
+.navbar-inverse .navbar-link:hover {
+    color: #428bca;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+/* color of lines that showed up in mobile-viewed toolbar menu */
+  background-color: #428bca;
+}
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+/* background color of mobile-viewed toolbar menu */
+  background-color: #428bca;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #428bca;
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #428bca;
+  background-color: transparent;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #428bca;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #428bca;
+  background-color: #080808;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #428bca;
+  background-color: #080808;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  color: #428bca;
+  background-color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #428bca;
+    background-color: #080808;
+}
+.addthis_default_style {
+    position: fixed;
+    right: 0;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.welcomeHomies {
+    text-align: center;
+    background-color: #eeeeee;
+}
+.disqusModification {
+    width: 75%;
+}
+
+
+  
+
