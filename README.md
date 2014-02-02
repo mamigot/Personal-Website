@@ -1,7 +1,7 @@
 Personal-Website
 ================
 
-This code powers <a href="http://miguelamigotgonzalez.com">my personal website (http://miguelamigotgonzalez.com)</a>.
+This code powers <a href="http://miguelamigotgonzalez.com">my personal website</a>.
 
 Contact me at http://miguelamigotgonzalez.com/contact
 
