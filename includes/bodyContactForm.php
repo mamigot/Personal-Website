@@ -9,7 +9,7 @@ return <<<HTML
       <h1>Send me a message! </h1>
     </div> 
     <br>
-    <form class="form-horizontal" role="form" action="includes/formEmailContactMe.php" method="POST">
+    <form class="form-horizontal" role="form" action="includes/formEmailContactMe.php" method="GET">
       <div class="form-group">
         <label for="name" class="col-lg-2 control-label">Name</label>
         <div class="col-lg-10">

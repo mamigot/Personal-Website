@@ -23,7 +23,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Projects</h1>
-        <p>I am launching a marketing automation software start-up and studying Electrical Engineering and Computer Science at New York University. I am also passionate about web development and its new technologies.</p>
+        <p>I am launching a marketing automation software start-up and studying Electrical Engineering and Computer Science at New York University. I am also passionate about back-end development and data analysis, and my goal is to build product for the public good.</p>
         <p><a href="contact.php" class="btn btn-primary btn-lg">Contact me &raquo;</a></p>
       </div>
     </div>
@@ -100,24 +100,24 @@
                       <div class="panel-body">
                          <strong>Software Engineering</strong><br><br>
                           <ol>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/sj65hYRUkE/1Introduction.pdf">Introduction</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/nqMRiENhk4/2InteractiveStart.pdf">Interactive Start</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/8fxQb3LNb-/3LinuxAndServerSideJavascript.pdf">Linux and Server-Side Javascript (SSJS)</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/vfey3oEtlt/4aLinuxCommandLine.pdf">The Linux Command Line</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/R1s1BV2Rk_/4bLinuxDevelopmentEnvironment.pdf">Linux Development Environment</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/il5bpri5wN/6IntroHTML-CS-JS.pdf">An Introduction to HTML/CSS/JS</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/evAYngpfkH/7DeploymentDNSandCustomDomains.pdf">Deployment, DNS and Custom Domains</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/UUjyIKTgLu/10IntermediateJavascript.pdf">Intermediate Javascript</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SI50pWksca/12NodejsAsynchronyFlowControlDebugging.pdf">Node.js: Asynchrony, Flow Control, and Debugging</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AADmbAgAIArA4n5sdJGKVfLqa/1Introduction.pdf">Introduction</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAAKo5vwMAvH9PqlBPIEXj1Qa/2InteractiveStart.pdf">Interactive Start</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABRdDlc224MACjEfPmx4pEQa/3LinuxAndServerSideJavascript.pdf">Linux and Server-Side Javascript (SSJS)</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAAhj35l4Z_EkteJqExJhCDFa/4aLinuxCommandLine.pdf">The Linux Command Line</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AACCA0NqlrJk152aWVtd5X1aa/4bLinuxDevelopmentEnvironment.pdf">Linux Development Environment</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAAEYZ-HhLrDUC936Nsq2NS8a/6IntroHTML-CS-JS.pdf">An Introduction to HTML/CSS/JS</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AADrvwYwAG1b26ZQSSOMv5IJa/7DeploymentDNSandCustomDomains.pdf">Deployment, DNS and Custom Domains</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AACcdqmeRM_uSZ76q-v3HGSSa/10IntermediateJavascript.pdf">Intermediate Javascript</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABpjXtkROeYBdaAqGjg5V15a/12NodejsAsynchronyFlowControlDebugging.pdf">Node.js: Asynchrony, Flow Control, and Debugging</a></li>
   
                           </ol>
                           <hr>
                           <strong>Start-ups and Business</strong><br><br>
                           <ol>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/xuI8vwNhhL/5MarketResearchWireframingAndDesign.pdf">Market Research, Wireframing and Design</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/CFzR19uisp/8Mobile.pdf">Mobile</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Nt537BMqSW/9SocialLocalMobileViralityGrowth.pdf">Social/Local/Mobile, Virality and Growth</a></li>
-                              <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/DqW-Q2grEm/11RegulationDisruptionandTechnologiesof2013.pdf">Regulation, Disruption and the Technologies of 2013</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAC_cYQ23KBi3IKGjBJk4P67a/5MarketResearchWireframingAndDesign.pdf">Market Research, Wireframing and Design</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AADV5oIyuJ32-G1kfoYnPMlNa/8Mobile.pdf">Mobile</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABaKtgx8OGwqbXxIaCPGpl7a/9SocialLocalMobileViralityGrowth.pdf">Social/Local/Mobile, Virality and Growth</a></li>
+                              <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAB7aKT9MoiETyfvl63D3Mfwa/11RegulationDisruptionandTechnologiesof2013.pdf">Regulation, Disruption and the Technologies of 2013</a></li>
                           </ol>
                       </div>
                     </div>
@@ -133,11 +133,11 @@
                     <div id="collapseAssignments" class="panel-collapse collapse">
                       <div class="panel-body">
                         <ol>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/SQXXAwv7Be/hw1.pdf">Basic Server-Side Javascript with Node.js</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/1YPDpPTeld/hw3.pdf">Your First Crowdfunding Site</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/HZx2DGWOIc/hw4.pdf">Styling and Populating your Crowdfunding Site</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/9dDNJdozEo/hw6.pdf">Deployment, Social, Analytics, Payments (24.44 MB)</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QSIyOig0xb/hw7Programming%3AQuiz.pdf">Interactive Intro to SSJS, ORMs, DBs</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAAZCmqInocw8Y8-ap7pJcTGa/hw1.pdf">Basic Server-Side Javascript with Node.js</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AACrB__eg_GpCRQzQCDe4UZVa/hw3.pdf">Your First Crowdfunding Site</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABpp05wWWP410YU60mZuVfUa/hw4.pdf">Styling and Populating your Crowdfunding Site</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AADSUjN6GrBVgpcCDLY6LY0Aa/hw6.pdf">Deployment, Social, Analytics, Payments (24.44 MB)</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AAA9jPOpmDvhOOrc63cBKwZSa/hw7Programming%3AQuiz.pdf">Interactive Intro to SSJS, ORMs, DBs</a></li>
                         </ol>
                       </div>
                     </div>
@@ -153,11 +153,11 @@
                     <div id="collapseQuizzes" class="panel-collapse collapse">
                       <div class="panel-body">
                         <ol>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/M1WW75hYzr/quiz4MarketResearch.pdf">Market Research</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/Jne1nq9q1f/quiz5aHTML.pdf">HTML</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/TcERBW11EU/quiz5bCSS.pdf">CSS</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/qSoKuieeR2/quiz5cReview.pdf">Review</a></li>
-                          <li><a href="https://www.dropbox.com/sh/ckhhsfoqm83lyj5/QsB5LlBHNy/quiz5dGit.pdf">Git</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AACGite0Aw2QZlTC8eQRA9R6a/quiz4MarketResearch.pdf">Market Research</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABohdz8DrPXZyQmPrBp81IXa/quiz5aHTML.pdf">HTML</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AACxp-X8nVgM1bJ83b_HFwrua/quiz5bCSS.pdf">CSS</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AABBHe5pZlq0d9dFa5Xlnqcfa/quiz5cReview.pdf">Review</a></li>
+                          <li><a href="https://www.dropbox.com/sh/z5x2gp0gphhjvdw/AADkSKQj25kmb7Z9Z7yXkrTfa/quiz5dGit.pdf">Git</a></li>
                         </ol>
                       </div>
                     </div>

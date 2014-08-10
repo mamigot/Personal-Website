@@ -8,10 +8,10 @@ $to = "contact@miguelamigotgonzalez.com";
 $message = "";
 
 //save user's data into these variables
-$name = htmlspecialchars($_POST['name']);
-$fromemail = htmlspecialchars($_POST['from']);
-$message = htmlspecialchars($_POST['message']);
-
+$name = htmlspecialchars($_GET['name']);
+$fromemail = htmlspecialchars($_GET['from']);
+$message = htmlspecialchars($_GET['message']);
+ 
 //check that the message string is not just spaces
 // http://stackoverflow.com/questions/2992329/check-if-string-is-just-white-space/2992342#2992342
 if(trim($message) == ''){
