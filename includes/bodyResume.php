@@ -21,13 +21,25 @@ return <<<HTML
               <!-- subcategory -->
               <div id="collapseExperience" class="panel-collapse collapse in">
                 <div class="panel-body">
-                    <strong>Co-Founder at OakWide</strong><br><i>June 2013 - Present</i><br><br>
-                    <p>Launching a marketing automation start-up and working as a developer, strategist, inbound marketer and recruiter.</p>
-                    <hr>
-                    <strong>Head of Product Development and Sales at <a href="http://www.iblstudios.com/">IBL Studios</a></strong><br><i>June 2010 - Present</i><br><br>
+                    <strong>Product Development Engineer at <a href="http://www.iblstudios.com/">IBL Studios Education</a></strong><br><i>June 2013 - Present</i><br><br>
                     <p>Assembled a series of software and content-oriented products and services designed to provide academic institutions and businesses with the most innovative educational technology.</p>
                     <p>Analyzed and contributed to the development of a business model based on the implementation of open source software, custom-built platforms, strategic web development and video production (including MOOCs and blended courses).</p>
+                    <p>Assembled and managed an international team of developers and salespeople.</p>
                     <p>Marketed IBL Studios' products through written content on our website and one-on-one sales with clients.</p>
+                    <hr>
+                    <strong>Software Development Intern at <a href="http://www.about.com/">About.com</a></strong><br><i>June 2014 - August 2014</i><br><br>
+                    <p>QA Dashboard (Python):</p>
+                    <br>
+                    <p>Designed and built a modular REST API using Django and MongoDB that gathers, interprets and displays analytics based on real-time data from Agile-oriented software such as Jenkins, JIRA, Qmetry and Stash.</p>
+                    <p>Developed a series of Python programs within the dashboard designed to extract data from each Agile service using relevant APIs as well as Postgres and MySQL databases.</p>
+                    <br>
+                    <p>QA Automation utilities (Java):</p>
+                    <br>
+                    <p>Built a link checker or URL crawler using Selenium which, provided a link to an initial page, tests the validity of all items within < a href > tags as well as that of each embedded link's set of links, until all unvisited elements fall outside the initial URL's authority.</p>
+                    <p>Programmed a series of managers which allow for automated testing of URLs meeting multiple types of criteria. URLs were categorized from a MySQL database of over 5M according to their site extensions and About.com's standards for template types via optimized queries as well as Regular Expressions.</p>
+                    <hr>
+                    <strong>Co-Founder at OakWide</strong><br><i>June 2013 - April 2014</i><br><br>
+                    <p>Launching a marketing automation start-up and working as a developer, strategist, inbound marketer and recruiter.</p>
                     <hr>
                     <strong>Marketing, Research and Sales Intern at <a href="http://www.mobiconsumers.com/">Mobile Consumer LLC</a></strong><br><i>June 2011 - August 2011</i><br><br>
                     <p>Researched and analyzed trends driving the mobile consumer industry.</p>
