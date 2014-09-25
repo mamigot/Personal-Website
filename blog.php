@@ -56,7 +56,8 @@ if(!isset($_GET['post'])){
     
     <div class="container">
       <div class="page-header">
-        <h4>I am working as a product development engineer at IBL Studios Education. Our mission is to provide academic institutions and businesses with the latest learning and teaching technology, from the open source Open edX platform to fully produced documentary-style courses.</h4>
+        <h4>I study Computer Science and Electrical Engineering at New York University. I am fascinated by technology and entrepreneurship and my goal is to develop a product for the public good.</h4>
+        <h4>I am also a product development engineer at <a href="http://iblstudios.com">IBL Studios Education</a>. Our mission is to provide academic institutions and businesses with the latest learning and teaching technology, from the Open edX platform to fully produced documentary-style courses.</h4>
       </div> 
     </div>
     
