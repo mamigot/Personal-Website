@@ -23,69 +23,55 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Projects</h1>
-        <p>I am launching a marketing automation software start-up and studying Electrical Engineering and Computer Science at New York University. I am also passionate about back-end development and data analysis, and my goal is to build product for the public good.</p>
+        <p>I study Computer Science and Electrical Engineering at New York University. I am fascinated by technology and entrepreneurship and my goal is to develop a product for the public good.</p>
         <p><a href="contact.php" class="btn btn-primary btn-lg">Contact me &raquo;</a></p>
       </div>
     </div>
     <div class="container">
+        
+        <div class="row">
+          <div class="col-lg-12">
+            <a name="next"></a><h2><i>What I'm Working On</i></h2>
+            <p class="lead">This is my fourth year in a five-year program of Computer Science and Electrical Engineering. Among others, I am taking "Signals and Systems" and "Electronics I" (for EE) as well as "Operating Systems" (for CS) --please find my assignments for the latter on GitHub (the latest is this <a href="https://github.com/miguel5/Two-Pass-Linker">Two-Pass Linker</a> in Java).</p>
+            <p class="lead">On "the side", I intend to improve as a web application developer through projects and continue to learn to design and develop systems that are efficient, scalable and automized. I'm particularly intrigued by the flow of data and the back-end, and I recently began to use Django because I like the highly structured and <a href="https://docs.djangoproject.com/en/1.7/misc/design-philosophies/">"DRY"</a> approach it follows.</p>
+            <p class="lead">In fact, I'm rewriting this website completely in order to make its content accessible through an API and integrate it heavily with platforms such as LinkedIn and GitHub. It's also a way to abstract the front-end, which would allow for the implementation of any JS framework or even a mobile app using the same data (see <a href="https://github.com/miguel5/Chair">the project on GitHub</a>).</p>
+            <p class="lead">I am also a product development engineer at <a href="http://iblstudios.com/">IBL Studios Education</a>. Our mission is to provide academic institutions and businesses with the latest learning and teaching technology, from the open source Open edX platform to fully produced documentary-style courses. Visit our site to request a free 30-min demo!</p>
+          </div>
+        </div>
+        
+        <br><br>
+        <div class="row">
+          <div class="col-lg-12">
+              <a name="About.com"></a><h2>About.com</h2>
+              <p class="lead">Last summer, I interned at <a href="http://about.com">About.com</a> in New York. It was incredible (a longer description is coming, friends).</p>
+              <p class="lead"></p>
+          </div>
+        </div>
+        
+        <br><br>
+        <div class="row">
+          <div class="col-lg-12">
+            <a name="IBLStudios"></a><h2>IBL Studios Education</h2>
+            <p class="lead">I've teamed up with my father and a group of developers, videographers and marketing specialists across the United States and Europe through <a href="http://iblstudios.com/">IBL Studios</a> to bring the latest tech innovations to academic institutions and businesses.</p>
+            <p class="lead">Our mission is to provide organizations with the latest educational technology and content, including open source or custom-built platforms, marketing-oriented web development and the production of MOOCs and blended courses. One of our favorite products is the open source, amazing <a href="http://iblstudios.com/products_services/open-source-platforms/open-edx/">edX platform</a> for online courses, which we fully integrate and maintain for educational institutions and businesses that rely on workforce training programs.</p>
+          </div>
+        </div>
+        
+        <br><br>
         <div class="row">
           <div class="col-lg-12">
               <a name="oakwide"></a><h2>OakWide</h2>
-              <p class="lead">I am launching a marketing automation start-up called OakWide with my father and an excellent software engineers based in Spain and New York. Though it's still in development-phase, it promises to revolutionize inbound marketing. </p>
-              <p class="lead">As Co-Founder, I'm working as a developer, strategist, inbound marketer and recruiter.  </p>
+              <p class="lead">Launched a marketing automation start-up focused on inbound marketing called OakWide with my father and an excellent software engineers based in Spain and New York. </p>
+              <p class="lead">Worked as a developer, strategist, inbound marketer and recruiter.  </p>
           </div>
         </div>
         
-        <br><br>
-        <div class="row">
-          <div class="col-lg-12">
-            <a name="IBLStudios"></a><h2>IBL Studios</h2>
-            <p class="lead">I've also teamed up with my father and a group of developers, videographers and marketing specialists across the United States and Europe through <a href="http://iblstudios.com/">IBL Studios</a> to bring the latest tech innovations to academic institutions and businesses.</p>
-            <p class="lead">Our mission is to provide organizations with the latest educational technology and content, including open source or custom-built platforms, marketing-oriented web development and the production of MOOCs and blended courses. One of our favorite products is the open source, amazing <a href="http://iblstudios.com/products_services/open-source-platforms/open-edx/">edX platform</a> for online courses, which we fully integrate and maintain for educational institutions and businesses that rely on workforce training programs.</p>
-            <p class="lead">I am responsible for product development and sales in the United States. Our model's innovative appeal evidently relies on a continuous improvement of the services we offer. I am mainly focused on coming up with and assembling them in order to convey their potential to our prospects and clients -through <a href="http://iblstudios.com/">our website</a> as well as one-on-one sales.</p>
-            <p class="lead">I have not only furthered my understanding of UX and usability, but also about the open source business model among others in the tech entrepreneurship arena. Additionally, by working closely with my father (the CEO) and other departments' heads, I have developed a great familiarity with all of the stages and nodes of the company.</p>
-          </div>
-        </div>
-        
-        <br><br>
-        <div class="row">
-          <div class="col-lg-12">
-            <a name="smartCMS"></a><h2>Smart Content Manager System (Facebook NY Hackathon)</h2>
-            <p class="lead">
-              Implemented the first phase of a "smart" content manager system (CMS) using Javascript and PHP as well as the Raptor Editor, FAROO Search and Alchemy APIs. The objective is to integrate existing tools to make the best possible CMS. Not only does the text editor need to follow the WYSIWYG model, but it needs to allow the user to create content that is relevant from an SEO perspective.
-            </p>
-            <p class="lead">
-              The former entailed the use of the open-source Raptor Editor and the latter was achieved through FAROO, which performed filtered search queries for user-entered keywords or topics and instantaneously returned a series of relevant results. These were not only displayed, but inputted through Alchemy to obtain relevant keywords and analyses based on the API's machine learning technology.
-            </p>
-            <p class="lead">
-              The project continues to be developed by my friend <a href="http://www.linkedin.com/in/christopherwoessner">Chris Woessner</a> and I, since we plan on drastically improving the functionality and user-experience components in the near future. In the meantime, check out our code via <a href="https://github.com/miguel5/Facebook-Hackathon">GitHub</a> and the <a href="http://hack.miguelamigotgonzalez.com/">initial phase of the CMS</a>.
-            </p>
-          </div>
-        </div>
-        <!--
-        <br><br>
-        <div class="row">
-          <div class="col-lg-12">
-            <a name="machineLearningCoursera"></a><h2>Stanford's "Machine Learning" via Coursera</h2>
-            <p class="lead">
-              I've decided to take Stanford University's <a href="https://www.coursera.org/course/ml">"Machine Learning"</a> on Coursera after completing <a href="http://www.miguelamigotgonzalez.com/projects.php#startupCoursera">"Start-up Engineering"</a> over the summer. As an aspiring computer scientist and electrical engineer, my goal is to gather the skills I'll need to develop innovative technology with software and hardware. 
-            </p>
-            <p class="lead">
-              Machine learning, or "the science of getting computers to act without being explicitly programmed", looks incredibly promising and I'm eager to learn more about it.
-            </p>
-          </div>
-        </div>
-        -->
         <br><br>
         <div class="row">
             <div class="col-lg-12">
               <a name="startupCoursera"></a><h2>Stanford's "Start-up Engineering" via Coursera</h2>
-              
               <div class="col-lg-5">
-
-              <p class="lead">Over the summer, I took Stanford University's "Start-up Engineering" via <a href="https://www.coursera.org/course/startup">Coursera</a> -taught by a <a href="https://www.coursera.org/instructor/balajis"> genomics entrepreneur</a> and a <a href="https://www.coursera.org/instructor/vijaypande">professor of chemistry, structural biology and computer science</a>. Definitely, one of the best courses I've ever taken. Check out the course materials via Dropbox: </p>
-              
-                
+              <p class="lead">I took Stanford University's "Start-up Engineering" via <a href="https://www.coursera.org/course/startup">Coursera</a> -taught by a <a href="https://www.coursera.org/instructor/balajis"> genomics entrepreneur</a> and a <a href="https://www.coursera.org/instructor/vijaypande">professor of chemistry, structural biology and computer science</a>. Definitely, one of the best courses I've ever taken. Check out the course materials via Dropbox: </p>
                 <!-- Links to lectures -->
                 <div class="panel-group" id="bossResume"> <!-- Beginning of accordion -->
                   <div class="panel"> <!-- Lectures -->
@@ -233,6 +219,33 @@
                 <img src="data/images/rsz_siderobot.png" alt="IsoView" class="img-thumbnail">
             </div>
         </div>
+      
+        <br><br>
+        <div class="row">
+          <div class="col-lg-12">
+              <a name="ppm"></a><h2>Polytechnic Playing Machine</h2>
+              <p class="lead">Designed and implemented the logic of the machine player of a digital game on programmable hardware. Created, analyzed and tested the schematics of the system using Xilinx ISE as well as an FPGA (field-programmable gate array) board.</p>
+              <p class="lead">The objective of the term project for the course was to develop the strategy that the machine player would follow as a result of users' input and other randomized variables, and implement it following a top-down design approach and the industry's best practices.</p>
+              <p class="lead">The schematic below is clearly divided into an information gathering subblock, a control unit which uses a counter to determine the logic of the machine player as well as when its process should end, and a decision making section. Though it uses comparators, counters, gates, decoders, registers and multiplexers, it essentially behaves as a function written in any kind of software (see <a href="http://www.xilinx.com/support/sw_manuals/libguide.pdf">Xilinx's guide</a> to learn what each component does).</p>
+          </div>
+          <object data="data/ppm.pdf" type="application/pdf" width="100%" height="550px">
+             <p>View the schematic <a href="data/ppm.pdf">here</a> if it's not being rendered.</p>
+          </object>
+          <div class="col-lg-12">
+              <br>
+              <p class="lead">Being able to apply the concepts that are typically expressed through Java, C or Python on programmable hardware through a program like this is really interesting. There are no for loops, while loops or variables other than the ones that are used to name wires. Consequently, one has to be aware of whether he's solving a problem combinationally or sequentially (in other words, in one or multiple clock periods), since in order to make data accessible in the future it may have to be stored in an x-bit register.</p>
+          </div>
+        </div>
+        
+        <br><br>
+        <div class="row">
+          <div class="col-lg-12">
+            <a name="smartCMS"></a><h2>Smart Content Manager System (Facebook NY Hackathon)</h2>
+            <p class="lead">Implemented the first phase of a "smart" content manager system (CMS) using Javascript and PHP as well as the Raptor Editor, FAROO Search and Alchemy APIs. The objective is to integrate existing tools to make the best possible CMS. Not only does the text editor need to follow the WYSIWYG model, but it needs to allow the user to create content that is relevant from an SEO perspective.</p>
+            <p class="lead">The former entailed the use of the open-source Raptor Editor and the latter was achieved through FAROO, which performed filtered search queries for user-entered keywords or topics and instantaneously returned a series of relevant results. These were not only displayed, but inputted through Alchemy to obtain relevant keywords and analyses based on the API's machine learning technology.</p>
+            <p class="lead">The project continues to be developed by my friend <a href="http://www.linkedin.com/in/christopherwoessner">Chris Woessner</a> and I, since we plan on drastically improving the functionality and user-experience components in the near future. In the meantime, check out our code via <a href="https://github.com/miguel5/Facebook-Hackathon">GitHub</a> and the <a href="http://hack.miguelamigotgonzalez.com/">initial phase of the CMS</a>.</p>
+          </div>
+        </div>
         
         <br><br>
         <div class="row">
@@ -277,21 +290,6 @@
       
     <br><br><hr>
     <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-            <h1><strong>Future Projects</strong></h1>
-        </div>
-        <div class="col-lg-4">
-            <h3>Node.js (server-side JS)</h3>
-            <p>Though I have already worked with Node.js for "Start-up Engineering" via Coursera, I want to extensively learn and implement features of server-side Javacsript like callback functions, especially because asynchronous processing becomes more popular every day. </p>
-            <p><a class="btn btn-default" href="http://nodejs.org/">Learn about Node.js &raquo;</a></p>
-        </div>
-        <div class="col-lg-4">
-            <h3>AngularJS (client-side JS)</h3>
-            <p>Coolest front-end "framework" so far (in quotes because it's too great for a framework). It feels like what I'm pretty sure HTML 6 or 7 will feel like. I've begun to integrate it in my <a href="http://cms.miguelamigotgonzalez.com/">CMS</a> for data binding but I can't wait to use it more.</p>
-            <p><a class="btn btn-default" href="http://angularjs.org/">Learn about AngularJS &raquo;</a></p>
-        </div>
-      </div>
       
       <!-- Beginning of resume (add includes file because aboutme page also has it) -->
       <a name="resume"></a><br><br>

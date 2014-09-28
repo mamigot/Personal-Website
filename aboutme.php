@@ -24,12 +24,12 @@
         <br>
         <div class="row">
             <div class="col-lg-3">
-                <img class="thumbnail" src="data/images/mikelAstorgaAmarillo.png"/>
+                <img class="thumbnail" src="data/images/mikelConfirmacion.png"/>
             </div>
             <div class="col-lg-9">
                 <h1>About Me</h1>
-                <p class="lead">My name is Miguel Amigot Gonzalez and I study Computer Science and Electrical Engineering at New York University. I am fascinated by technology and entrepreneurship and my goal is to develop a product for the public good. </p>
-                <p class="lead">Currently, I am working on product development and sales at <a href="http://iblstudios.com/">IBL Studios</a>. Our mission is to provide academic institutions and businesses with the latest learning and teaching technology, from Open edX to fully produced documentary-style courses.</p>
+                <p class="lead">My name is Miguel Amigot Gonzalez and I study Computer Science and Electrical Engineering at New York University. I am fascinated by technology and entrepreneurship and my goal is to develop a product for the public good.</p>
+                <p class="lead">What I truly enjoy about Engineering is the design of algorithms as well as the organization and infrastructure of systems: anything from the circuit of an <a href="http://en.wikipedia.org/wiki/Radio-frequency_identification#Tags">RFID tag</a> using transformers and diodes to a scalable API or web service that reads and analyzes data. I'm particularly keen on designing modular, efficient and automized systems, and this is what I intend to continue to learn.</p>
                 <p>
                   <a class="btn btn-lg btn-primary" href="http://www.miguelamigotgonzalez.com/contact.php">Contact me &raquo;</a>
                 </p>

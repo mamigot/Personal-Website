@@ -28,11 +28,13 @@ return <<<HTML
               <ul class="dropdown-menu">
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php">See all</a></li>
                 <li class="divider"></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#About.com">About.com</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#IBLStudios">IBL Studios Education</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#oakwide">OakWide</a></li>
-                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#IBLStudios">IBL Studios</a></li>
-                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#smartCMS">Smart CMS</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#startupCoursera">Stanford's "Startup Engineering"</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#disarmingRobot">Disarming robot</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#ppm">Polytechnic Playing Machine</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#smartCMS">Smart CMS</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#responsiveWebDesign">Responsive web design</a></li>
                 <li class="divider"></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#resume">Resume</a></li>
