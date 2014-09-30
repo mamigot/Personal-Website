@@ -23,13 +23,14 @@ return <<<HTML
             <li><a href="http://www.miguelamigotgonzalez.com/aboutme.php">About Me</a></li>
             <li><a href="http://www.miguelamigotgonzalez.com/contact.php">Contact</a></li>
             <li><a href="http://www.miguelamigotgonzalez.com/blog.php">Blog</a></li>
+            <li><a href="http://www.miguelamigotgonzalez.com/100days.php">100 Days</a></li>
             <li class="dropdown">
               <a href="http://www.miguelamigotgonzalez.com/projects.php" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="http://www.miguelamigotgonzalez.com/projects.php">See all</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php">What I'm Working On</a></li>
                 <li class="divider"></li>
-                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#About.com">About.com</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#IBLStudios">IBL Studios Education</a></li>
+                <li><a href="http://www.miguelamigotgonzalez.com/projects.php#About.com">About.com</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#oakwide">OakWide</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#startupCoursera">Stanford's "Startup Engineering"</a></li>
                 <li><a href="http://www.miguelamigotgonzalez.com/projects.php#disarmingRobot">Disarming robot</a></li>
